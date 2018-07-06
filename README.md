@@ -36,7 +36,7 @@ $docker pull loopchain/loopchain-fluentd
 	* 7100: gRPC port
 	* 9000: RESTful port
 
-![awsport](../Image/awsport.png)
+![awsport](./Image/awsport.png)
 
 하지만 일단은 aws port는 9000, 9002, 80, 22 포트만 열어주었다.
 
