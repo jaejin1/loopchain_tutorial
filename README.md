@@ -46,7 +46,7 @@ $docker pull loopchain/loopchain-fluentd
 
 ### Components 들
 
-![peer1](./Image/peer1.png)
+![peer1](./Image/components.png)
 
 [출처 : loopchain](https://github.com/theloopkr/loopchain/blob/master/README_KR.md)
 
